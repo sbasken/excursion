@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, san-serif;
+}
+
+#line {
+    font-size: 21px;
+    color: gray;
+}
+
+#demo {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
